@@ -15,11 +15,11 @@ TowerOfHanoi(n,"A","B","C")
 
 
 #OUTPUT
-enter the number of disks:3
+'''enter the number of disks:3
 move A to C
 move A to B
 move C to B
 move A to C
 move B to A
 move B to C
-move A to C
+move A to C'''
